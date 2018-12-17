@@ -1,2 +1,2 @@
-= jarrydk.github.io
+# jarrydk.github.io
 Github page for jarrydk
