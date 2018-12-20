@@ -2,7 +2,9 @@
 layout: post
 title:  "InstallCert"
 date:   2018-12-18 07:33:54 +0100
-categories: jekyll update
+author: "Michael Bornholdt Nielsen"
+categories: security java
+permalink: /archivers/install-cert
 ---
 
 Repo with `Java program to retrieve server certificate that can be added to local keystore `.

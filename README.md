@@ -2,8 +2,6 @@
 
 Github page for jarrydk
 
-## TODO
+## Theme
 
-Update to themes
-
-http://jekyllthemes.org/themes/devjournal/
+https://github.com/laobubu/jekyll-theme-EasyBook

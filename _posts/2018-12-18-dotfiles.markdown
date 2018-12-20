@@ -2,7 +2,9 @@
 layout: post
 title:  "dotfiles"
 date:   2018-12-18 07:31:54 +0100
-categories: jekyll update
+author: "Michael Bornholdt Nielsen"
+categories: linux
+permalink: /archivers/dotfiles
 ---
 
 Repo with my dotfiles.
